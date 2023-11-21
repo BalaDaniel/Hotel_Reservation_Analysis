@@ -6,8 +6,8 @@ Imported the dataset to the SQL Server Mangement Studio 2019
 And wrote the queries to get the insigths
 
 ## Resources Used
-Data : Hotel_Reservation Dataset.csv from my local machine
-Software: SQL Server Management Studio 2019
+1.Data : Hotel_Reservation Dataset.csv from my local machine.
+2.Software: SQL Server Management Studio 2019
 ## Analysis
 1. What is the total number of reservations in the dataset?
 2. Which meal plan is the most popular among guests?
