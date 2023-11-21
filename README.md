@@ -1,10 +1,11 @@
 # Hotel_Reservation_Analysis
 This Project is about how the hotel reservations throughout the year.
+
 ## Method
 Imported the dataset to the SQL Server Mangement Studio 2019
 And wrote the queries to get the insigths
 
-## Resources Used**
+## Resources Used
 Data : Hotel_Reservation Dataset.csv from my local machine
 Software: SQL Server Management Studio 2019
 ## Analysis
